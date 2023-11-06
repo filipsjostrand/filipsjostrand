@@ -5,6 +5,8 @@
 - 💞️ I’m looking to work and collaborate on useful stuff.
 - 📫 How to reach me: filip_sjostrand@hotmail.com
 
+(Last update: 2023)
+
 <!---
 Bake it till you make it!
 --->
