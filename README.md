@@ -5,7 +5,7 @@
 - 💞️ I’m looking to work and collaborate on useful stuff.
 - 📫 How to reach me: filip_sjostrand@hotmail.com
 
-👀 This is my website: 99sleepideas.com
+👀 This is my website: https://www.99sleepideas.com
 
 (Last update: 2024)
 
