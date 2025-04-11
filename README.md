@@ -4,7 +4,7 @@
 - 🌱 (I'm also familiar with React, Python, SQL, Node.JS, Docker, Android Studio and Agile project management)
 - 💞️ I’m looking to work and collaborate on useful stuff.
 - 📫 How to reach me: filip_sjostrand@hotmail.com
-- 🖥️ Website: filipsjostrand.github.io
+- 🖥️ Website: https://filipsjostrand.github.io
 
 (Last update: 2025)
 
