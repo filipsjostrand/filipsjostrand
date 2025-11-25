@@ -6,7 +6,7 @@
 - 📫 How to reach me: filip_sjostrand@hotmail.com
 - 🖥️ Website (Portfolio/Todo): https://filipsjostrand.github.io
 - 🖥️ Website++ (Sleep ideas): https://99sleepideas.com
-- 🖥️ Website++ (weather forecast): https://next-js-weather-project.vercel.app/ - Works best in Google Chrome
+- 🖥️ Website++ (Weather Forecast): https://next-js-weather-project.vercel.app/ - Works best in Google Chrome
 
 (Last update: 2025)
 
