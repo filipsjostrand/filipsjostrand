@@ -4,8 +4,8 @@
 - 🌱 (I'm also familiar with React, Python, SQL, Node.JS, Docker, Android Studio and Agile project management)
 - 💞️ I’m looking to work and collaborate on useful stuff.
 - 📫 How to reach me: filip_sjostrand@hotmail.com
-- 🖥️ Website (portfolio/Todo): https://filipsjostrand.github.io
-- 🖥️ Website++ (sleep ideas): https://99sleepideas.com
+- 🖥️ Website (Portfolio/Todo): https://filipsjostrand.github.io
+- 🖥️ Website++ (Sleep ideas): https://99sleepideas.com
 - 🖥️ Website++ (weather forecast): https://next-js-weather-project.vercel.app/ - Works best in Google Chrome
 
 (Last update: 2025)
