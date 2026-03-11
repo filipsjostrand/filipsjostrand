@@ -9,6 +9,7 @@
 - 🖥️ Website++ (Weather Forecast): https://next-js-weather-project.vercel.app - Android/PC
 - 🖥️ Website++ (Trivia Game): https://next-js-trivia-game.vercel.app
 - 🖥️ Website++ (eCommerce website): https://next-js-sportify-10.vercel.app/
+- 🖥️ Website++ (Planner): https://kallner-plan.vercel.app/
 
 (Last update: 2026)
 
